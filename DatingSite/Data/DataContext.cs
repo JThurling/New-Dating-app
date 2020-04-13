@@ -1,4 +1,4 @@
-﻿using DatingApp.Models;
+﻿using DatingSite.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace DatingSite.Data
