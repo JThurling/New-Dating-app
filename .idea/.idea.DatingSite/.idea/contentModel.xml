@@ -23,6 +23,9 @@
           <e p="UserForLogin.cs" t="Include" />
           <e p="UserForRegister.cs" t="Include" />
         </e>
+        <e p="Helpers" t="Include">
+          <e p="Extensions.cs" t="Include" />
+        </e>
         <e p="Migrations" t="Include">
           <e p="20200411111908_InitialCreate.cs" t="Include" />
           <e p="20200411111908_InitialCreate.Designer.cs" t="Include" />
@@ -63,6 +66,7 @@
       <e p="DatingSite-SPA\node_modules\@angular-devkit\build-webpack" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\@angular-devkit\core" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\@angular-devkit\schematics" t="IncludeRecursive" />
+      <e p="DatingSite-SPA\node_modules\@auth0\angular-jwt" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\@jsdevtools\coverage-istanbul-loader" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\@ngtools\webpack" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\@types" t="IncludeRecursive">
@@ -74,9 +78,11 @@
         <e p="source-list-map" t="IncludeRecursive" />
       </e>
       <e p="DatingSite-SPA\node_modules\ajv" t="IncludeRecursive" />
+      <e p="DatingSite-SPA\node_modules\alertifyjs" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\arg" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\blocking-proxy" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\bootstrap" t="IncludeRecursive" />
+      <e p="DatingSite-SPA\node_modules\bootswatch" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\canonical-path" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\chalk" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\chokidar" t="IncludeRecursive" />
@@ -97,6 +103,8 @@
       <e p="DatingSite-SPA\node_modules\karma-jasmine-html-reporter" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\license-webpack-plugin" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\magic-string" t="IncludeRecursive" />
+      <e p="DatingSite-SPA\node_modules\ngx-bootstrap" t="IncludeRecursive" />
+      <e p="DatingSite-SPA\node_modules\ngx-toastr" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\portfinder" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\postcss" t="IncludeRecursive" />
       <e p="DatingSite-SPA\node_modules\protractor" t="IncludeRecursive" />
