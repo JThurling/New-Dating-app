@@ -65,3 +65,9 @@ C:\C# coding\DatingSite\DatingSite\DatingSite\obj\Debug\netcoreapp3.1\staticweba
 C:\C# coding\DatingSite\DatingSite\DatingSite\obj\Debug\netcoreapp3.1\DatingSite.dll
 C:\C# coding\DatingSite\DatingSite\DatingSite\obj\Debug\netcoreapp3.1\DatingSite.pdb
 C:\C# coding\DatingSite\DatingSite\DatingSite\obj\Debug\netcoreapp3.1\DatingSite.genruntimeconfig.cache
+C:\C# coding\DatingSite\DatingSite\DatingSite\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+C:\C# coding\DatingSite\DatingSite\DatingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\C# coding\DatingSite\DatingSite\DatingSite\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\C# coding\DatingSite\DatingSite\DatingSite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\C# coding\DatingSite\DatingSite\DatingSite\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\C# coding\DatingSite\DatingSite\DatingSite\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

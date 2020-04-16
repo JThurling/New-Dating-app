@@ -8,22 +8,31 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
           <e p="AuthController.cs" t="Include" />
+          <e p="UsersController.cs" t="Include" />
           <e p="ValuesController.cs" t="Include" />
         </e>
         <e p="Data" t="Include">
           <e p="AuthRepository.cs" t="Include" />
           <e p="DataContext.cs" t="Include" />
+          <e p="DatingRepository.cs" t="Include" />
           <e p="IAuthRepository.cs" t="Include" />
+          <e p="IDatingRepositry.cs" t="Include" />
+          <e p="Seed.cs" t="Include" />
+          <e p="UserSeedData.json" t="Include" />
         </e>
         <e p="datingapp.db" t="Include" />
         <e p="datingapp.db-shm" t="Include" />
         <e p="datingapp.db-wal" t="Include" />
         <e p="DatingSite.csproj" t="IncludeRecursive" />
         <e p="DTOs" t="Include">
+          <e p="PhotosForDetails.cs" t="Include" />
+          <e p="UserForDetails.cs" t="Include" />
+          <e p="UserForList.cs" t="Include" />
           <e p="UserForLogin.cs" t="Include" />
           <e p="UserForRegister.cs" t="Include" />
         </e>
         <e p="Helpers" t="Include">
+          <e p="AutoMapperProfiles.cs" t="Include" />
           <e p="Extensions.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
@@ -31,9 +40,12 @@
           <e p="20200411111908_InitialCreate.Designer.cs" t="Include" />
           <e p="20200412171815_FixedNamespace.cs" t="Include" />
           <e p="20200412171815_FixedNamespace.Designer.cs" t="Include" />
+          <e p="20200415124624_ExtendedUserClass.cs" t="Include" />
+          <e p="20200415124624_ExtendedUserClass.Designer.cs" t="Include" />
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
+          <e p="Photo.cs" t="Include" />
           <e p="User.cs" t="Include" />
           <e p="Values.cs" t="Include" />
         </e>
